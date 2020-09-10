@@ -17,7 +17,7 @@ export default function Home(props) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <h1>Daftar 100 Kapitalisasi Pasar Crypto Teratas</h1>
-        <table className='table'>
+        <table className='table' >
           <thead class="thead-dark">
             <tr>
               <th>
